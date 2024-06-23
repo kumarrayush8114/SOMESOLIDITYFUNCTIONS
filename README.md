@@ -1,4 +1,4 @@
-# MYcontract showing use of some functions
+# mycontract showing use of some functions
 
 A simple smart contract demonstrating the use of `require()`, `assert()`, and `revert()` statements in Solidity. This contract allows the owner to set and increment a stored number with specific constraints.
 
@@ -93,8 +93,6 @@ contractName.help()
 
 ## Authors
 
-AYUSH KUMAR  
-[@ayushkumarr32](https://twitter.com/ayushkumarr32)
 
 AYUSH KUMAR 
 https://x.com/ayushkumarr32
