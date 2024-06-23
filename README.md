@@ -81,9 +81,9 @@ contract MYContract {
 ## Help
 
 For common issues, ensure the following:
-- MetaMask is connected to the correct network.
-- You have enough test ether for gas fees.
-
+-You are connected to the correct environment in Remix.
+-You have sufficient gas for transactions.
+If you encounter errors, refer to the Remix documentation or seek help from the Solidity developer community.
 To get more information, run:
 ```
 contractName.help()
