@@ -18,14 +18,14 @@ This project is designed to provide a basic example of how to use Solidity's err
 ### Executing program
 
 1. **Open Remix**: Go to [Remix IDE](https://remix.ethereum.org/).
-2. **Create a New File**: In the file explorer on the left, click the "New File" button, and name it `UniqueContract.sol`.
+2. **Create a New File**: In the file explorer on the left, click the "New File" button, and name it `MYContract.sol`.
 3. **Paste the Contract Code**: Copy and paste the following smart contract code into the new file.
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.7.0 <0.9.0;
 
-contract UniqueContract {
+contract MYContract {
     address public contractOwner;
     uint public storedNumber;
 
