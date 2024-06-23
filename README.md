@@ -10,10 +10,9 @@ This project is designed to provide a basic example of how to use Solidity's err
 
 ### Installing
 
-1. **Install MetaMask**: If you don't already have MetaMask installed, add it as an extension to your browser from [MetaMask's official website](https://metamask.io/).
-2. **Create/Import Wallet**: Follow the instructions to create a new wallet or import an existing one.
-3. **Connect to Test Network**: Switch to a test network (like Rinkeby or Ropsten) by clicking the network dropdown at the top of MetaMask.
-4. **Get Test Ether**: Acquire some test ether from a faucet for the chosen test network (e.g., [Rinkeby Faucet](https://faucet.rinkeby.io/)).
+1. Download Remix: Remix is an online Solidity IDE. You can access it at Remix IDE.
+2. Create a New File: In Remix, create a new file and name it UniqueContract.sol.
+3. Copy the Contract Code: Copy the following smart contract code into the new file.
 
 ### Executing program
 
