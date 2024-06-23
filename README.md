@@ -10,8 +10,8 @@ This project is designed to provide a basic example of how to use Solidity's err
 
 ### Installing
 
-1. Download Remix: Remix is an online Solidity IDE. You can access it at Remix IDE.
-2. Create a New File: In Remix, create a new file and name it UniqueContract.sol.
+1. Download Remix: Remix is an online Solidity IDE. You can access it at [Remix IDE](https://remix.ethereum.org/)
+2. Create a New File: In Remix, create a new file and name it MYContract.sol.
 3. Copy the Contract Code: Copy the following smart contract code into the new file.
 
 ### Executing program
